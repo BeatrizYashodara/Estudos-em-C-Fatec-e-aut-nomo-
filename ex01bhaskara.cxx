@@ -34,8 +34,6 @@ int main () {
                    cout << "Delta igual a zero. Apenas uma raiz real. Raiz: " << x << endl;
          else 
             cout << "Delta maior que zero. Raizes X': " << x1 << " e X'': " << x2 << " ." << endl;
-             
-    
-    
+       
    return 0;
 }
