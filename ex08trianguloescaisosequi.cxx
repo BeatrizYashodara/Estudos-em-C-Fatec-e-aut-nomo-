@@ -8,7 +8,7 @@ int main () {
     int a3;
     
     // entrada de dados 
-    cout << " Descobrindo o tipo do triangulo: escaleno, isosceles pu equilatero." << endl;
+    cout << " Descobrindo o tipo do triangulo: escaleno, isosceles ou equilatero." << endl;
     
     cout << "Informe o angulo 1 do triangulo: " << endl;
     cin >> a1; 
